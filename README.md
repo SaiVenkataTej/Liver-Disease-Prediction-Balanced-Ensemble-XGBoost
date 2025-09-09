@@ -84,7 +84,7 @@ Liver disease can be life-threatening if undetected. This project uses machine l
 
 - **Optimal threshold:** ~0.53 for healthy class.  
 - **Metrics on test set:**
-  - Accuracy: 0.744
+  - Accuracy: 74.4
   - ROC AUC: 0.798
   - Confusion Matrix:
 
